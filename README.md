@@ -9,3 +9,5 @@ Melhorias a curto prazo:
   Adicionar mais formas de pagamentos.
 
   Mudar de conta.
+
+Link da preview: https://preview.flutlab.io/user_zyp/locadora01/
